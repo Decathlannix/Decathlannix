@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=decathlannix" alt="decathlannix" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Unity, Virtual (VR) and Augmented (AR) Reality projects.**
+- 👯 I’m looking to collaborate on **Unity, Virtual (VR) and Augmented (AR) Reality projects**.
 
-- 👨‍💻 All of my projects are available at [https://decathlannix.itch.io](https://decathlannix.itch.io)
+- 👨‍💻 All of my projects are available [here](https://decathlannix.itch.io).
 
-- 📝 I occasionally write game reviews at [https://nunogab352.wixsite.com/decas-den](https://nunogab352.wixsite.com/decas-den)
+- 📝 I occasionally write game reviews [there](https://nunogab352.wixsite.com/decas-den).
 
-- 💬 Ask me about **Unity and Blender.**
+- 💬 Ask me about **Unity and Blender**.
 
 - 📫 How to reach me **nungab352@gmail.com**
 
-- ⚡ Fun fact **I love swimming and hiking.**
+- ⚡ Fun fact **I love swimming and hiking**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
