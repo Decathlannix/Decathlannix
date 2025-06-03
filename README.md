@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=decathlannix" alt="decathlannix" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Virtual (VR) and Augmented (AR) Reality, and in general Unity-based game projects**.
+- 👯 I’m looking to collaborate on **Virtual (VR) and Augmented (AR) Reality and Unity-based game projects**.
 
 - 👨‍💻 All of my projects are available [here](https://decathlannix.itch.io).
 
