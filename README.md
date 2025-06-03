@@ -15,7 +15,7 @@
 
 - 📫 You can contact me through **nungab352@gmail.com**.
 
-- ⚡ A cool fact about me is that **I'm a compulsive hiker**.
+- ⚡ A fun fact about me is that **I'm a compulsive hiker**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
