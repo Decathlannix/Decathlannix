@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Unity and Blender**.
 
-- 📫 How to reach me **nungab352@gmail.com**
+- 📫 You can contact me through **nungab352@gmail.com**.
 
 - ⚡ Fun fact **I love swimming and hiking**.
 
