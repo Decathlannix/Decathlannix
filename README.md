@@ -11,7 +11,7 @@
 
 - 📝 I occasionally write game reviews [there](https://nunogab352.wixsite.com/decas-den).
 
-- 💬 Ask me about **Unity and Blender**.
+- 💬 Ask me about **games and Unity**.
 
 - 📫 You can contact me through **nungab352@gmail.com**.
 
