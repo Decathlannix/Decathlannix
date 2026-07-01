@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nuno Veloso</h1>
-<h3 align="center">A game developer from Portugal.</h3>
+<h3 align="center"> A Game Developer and C# Programmer from Portugal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=decathlannix&label=Profile%20views&color=0e75b6&style=flat" alt="decathlannix" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=decathlannix" alt="decathlannix" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Virtual (VR) and Augmented (AR) Reality and Unity-based game projects**.
+- 👯 I’m looking to collaborate on **C# or XR projects, ideally Unity-based**.
 
 - 👨‍💻 All of my projects are available [here](https://decathlannix.itch.io).
 
-- 📝 I occasionally write game reviews [there](https://nunogab352.wixsite.com/decas-den).
-
-- 💬 Ask me about **games and Unity**.
+- 📝 I occasionally write game reviews [here](https://nunogab352.wixsite.com/decas-den).
 
 - 📫 You can contact me through **nungab352@gmail.com**.
-
-- ⚡ A fun fact about me is that **I'm a compulsive hiker**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
