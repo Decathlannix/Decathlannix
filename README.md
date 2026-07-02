@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nuno Veloso</h1>
-<h3 align="center"> A Game Developer and C# Programmer from Portugal.</h3>
+<h3 align="center"> An aspiring Game Developer and C# Programmer from Portugal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=decathlannix&label=Profile%20views&color=0e75b6&style=flat" alt="decathlannix" /> </p>
 
