@@ -15,7 +15,7 @@
 <p align="left">
   <a href="https://unity.com" target="_blank" rel="noreferrer"> <img src="https://cdn.brandfetch.io/idEc0EPR9J/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="unity" width="40" height="40"/> </a>
   <a href="https://developer.vuforia.com/home" target="_blank" rel="noreferrer"> <img src="https://cdn.brandfetch.io/idGm0izmWw/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="vuforia" width="40" height="40"/> </a>
-  <a href="https://developers.google.com/ar" target="_blank" rel="noreferrer"> <img src="https://images.seeklogo.com/logo-png/37/1/google-arcore-logo-png_seeklogo-379573.png" alt="arcore" width="40" height="40"/> </a>
+  <a href="https://developers.google.com/ar" target="_blank" rel="noreferrer"> <img src="https://developers.google.com/static/ar/images/logo.svg" alt="arcore" width="40" height="40"/> </a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
